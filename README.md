@@ -26,6 +26,4 @@ Storefront
 
 visit the wiki for more information about the project
 
-```sh
 [Wiki](https://github.com/Javierfs94/Cordoba-Commerce/wiki)
-```
